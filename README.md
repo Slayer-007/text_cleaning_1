@@ -7,10 +7,9 @@ This python package is prepared by Saurabh Yadav.
 
 
 Install
-`pip install git+ssh://git@github.com/Slayer-007/basic_text_cleaning.git`
+`pip install git+ssh://git@github.com/Slayer-007/text_cleaning_1.git`
 
 
 Uninstall
 `pip uninstall basic_cleaning_saurabh`
-
 
